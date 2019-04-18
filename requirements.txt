@@ -1,6 +1,4 @@
 numpy==1.16.*
 matplotlib==3.*
 seaborn==0.8.1
-networkx==2.0
-collections
-warnings
+networkx==2.0.*
